@@ -1,0 +1,10 @@
+table, tr, td{
+    border: 3px dotted;
+}
+td.weehee{
+    border: 3px dotted;
+}
+
+body{
+    background-color:brown;
+}
